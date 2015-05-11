@@ -1,11 +1,12 @@
 {
-  "name": "node-tsx17",
+  "name": "tsx17",
   "version": "1.0.0",
   "description": "TSX parser",
   "main": "./index.js",
   "dependencies": {
 	  "commander": "latest",
-	  "serialport": "latest"
+	  "serialport": "latest",
+	  "semaphore": "latest"
   },
   "keywords": [
     "TSX", "TSX17", "TELEMECANIQUE"
