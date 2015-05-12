@@ -6,7 +6,8 @@
   "dependencies": {
 	  "commander": "latest",
 	  "serialport": "latest",
-	  "semaphore": "latest"
+	  "semaphore": "latest",
+    "my-buffers-stream": "git://github.com/oeuillot/my-buffers-stream.git"
   },
   "keywords": [
     "TSX", "TSX17", "TELEMECANIQUE"
