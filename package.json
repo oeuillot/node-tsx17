@@ -7,7 +7,8 @@
 	  "commander": "latest",
 	  "serialport": "latest",
 	  "semaphore": "latest",
-    "my-buffers-stream": "git://github.com/oeuillot/my-buffers-stream.git"
+    "my-buffers-stream": "git://github.com/oeuillot/my-buffers-stream.git",
+    "debug": "latest"
   },
   "keywords": [
     "TSX", "TSX17", "TELEMECANIQUE"
