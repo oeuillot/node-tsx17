@@ -1,11 +1,11 @@
 {
   "name": "tsx17",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TSX parser",
   "main": "./index.js",
   "dependencies": {
 	  "commander": "latest",
-	  "serialport": "latest",
+	  "serialport": "^9.0.6",
 	  "semaphore": "latest",
     "my-buffers-stream": "git://github.com/oeuillot/my-buffers-stream.git",
     "debug": "latest"
